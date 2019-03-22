@@ -1,0 +1,7 @@
+H:\Desktop\6211 - Jacob\Queues\Queues\bin\Debug\Queues.exe.config
+H:\Desktop\6211 - Jacob\Queues\Queues\bin\Debug\Queues.exe
+H:\Desktop\6211 - Jacob\Queues\Queues\bin\Debug\Queues.pdb
+H:\Desktop\6211 - Jacob\Queues\Queues\obj\Debug\Queues.csprojAssemblyReference.cache
+H:\Desktop\6211 - Jacob\Queues\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+H:\Desktop\6211 - Jacob\Queues\Queues\obj\Debug\Queues.exe
+H:\Desktop\6211 - Jacob\Queues\Queues\obj\Debug\Queues.pdb
